@@ -2,7 +2,7 @@
 Author: Karin Falconer-Bailey
 
 # Introduction
-This project acts as courswork for the Machine Learning module of the MSc Data Science course at City, University of London. The key elements of the coursework were to:
+This project acts as coursework for the Machine Learning module of the MSc Data Science course at City, University of London. The key elements of the coursework were to:
 1. Specify a Machine Learning (ML) solution to a data analysis problem;
 2. Adjust the ML model parameters and explain how ML seeks to solve the problem;
 3. Apply, compare and contrast, and critically evaluate two ML models.
